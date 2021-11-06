@@ -39,6 +39,8 @@
 [<img align="left" alt="nikarcosta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/monique-rodrigues-da-costa-356280163/
-
-
+<br />
+<br />
+  
+![counter](https://enc0ygtonbuchf3.m.pipedream.net)
  
