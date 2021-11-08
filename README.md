@@ -6,7 +6,7 @@
 <img align="right" alt="Nika-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/71656931/139591294-dc4790db-4476-4d63-90a6-d59eb578f58c.gif">
 <p> - 🌱 I’m currently learning everything
 <p> - 👯 I’m looking to collaborate with other computer science students
-<p> - 🥅 2022 Goals: learn more about datascience, artificial intelligent, machine learning and chatbots
+<p> - 🥅 2022 Goals: learn more about datascience, artificial intelligence, machine learning and chatbots
 <p> - ⚡ Fun fact: I love to play the piano and learn languages (I speak English, German and I've been learning Russian own my on)
 </div>
 
