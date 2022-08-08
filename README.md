@@ -14,7 +14,7 @@
 <br />
 <br />
 
-<div align="center">
+<div align="inline_block">
   <a href="https://github.com/nikarcosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikarcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikarcosta&layout=compact&langs_count=7&theme=dracula"/>
@@ -30,6 +30,7 @@
   <img align="center" alt="Nika-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Nika-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Nika-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Nika-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
     
 ![Snake animation](https://github.com/nikarcosta/nikarcosta/blob/output/github-contribution-grid-snake.svg)
