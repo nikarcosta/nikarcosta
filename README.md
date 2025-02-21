@@ -3,10 +3,10 @@
 ### A passionate Computer Science student 🤓💻
 
 <div style="display: inline_block"  >
-<img align="right" alt="Nika-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/71656931/139591294-dc4790db-4476-4d63-90a6-d59eb578f58c.gif">
-<p> - 🌱 I’m currently learning backend development in Python 
+
+<p> - 🌱 I’m currently learning backend development in Java 
 <p> - 👯 I’m looking to collaborate with other computer science students
-<p> - 🥅 2024 Goals: learn more about data science, artificial intelligence, machine learning, and chatbots
+<p> - 🥅 2025 Goals: learn more about data science, artificial intelligence, machine learning, and chatbots
 <p> - ⚡ Fun fact: I love to play the piano and the kalimba and learn languages 
 </div>
 
@@ -35,8 +35,6 @@
   <img align="center" alt="Nika-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" >  
   <img align="center" alt="Nika-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
-    
-![Snake animation](https://github.com/nikarcosta/nikarcosta/blob/output/github-contribution-grid-snake.svg)
 
 <br />
 <br />
